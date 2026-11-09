@@ -1,0 +1,1 @@
+This project is demo the Checkout of a shopping cart
